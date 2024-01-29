@@ -1,65 +1,56 @@
-<div align='center'>
+<br/>
+<p align="center">
+  <a href="https://github.com/jchiwaii/HangMan">
+    <img src="https://i.pinimg.com/originals/d6/1a/55/d61a5584b1ed1f5e1edde8b5b25cdee8.gif" alt="Logo" width="80" height="80">
+  </a>
 
-<img src=https://t4.ftcdn.net/jpg/02/48/96/11/360_F_248961156_XeSISXFo6bcFUw830wpE2zPLxWGCl1u9.jpg alt="logo" width= height= />
+  <h3 align="center">HangMan</h3>
 
-<h1>HangMan</h1>
-<p>A fun and educational game to expand your vocabulary and challenge your skills!</p>
+  <p align="center">
+    A fun and educational game to expand your vocabulary and challenge your skills!
+    <br/>
+    <br/>
+  </p>
+</p>
 
-<h4> <span> · </span> <a href="https://github.com/jchiwaii/HangMan/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/jchiwaii/HangMan/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/jchiwaii/HangMan/issues"> Request Feature </a> </h4>
+![Contributors](https://img.shields.io/github/contributors/jchiwaii/HangMan?color=dark-green) ![Issues](https://img.shields.io/github/issues/jchiwaii/HangMan) ![License](https://img.shields.io/github/license/jchiwaii/HangMan) 
 
+## Table Of Contents
 
-</div>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-
-
-## :star2: About the Project
-
-### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://ibb.co/zNRp284" alt='image' width='800'/></a> </div>
-
-
-
-### :dart: Features
-- Three levels of difficulty: easy, medium, and hard.
-- A word list containing over 100 English words, categorized by topic.
-- Hints for each level of difficulty to help you guess the word.
-- Customizable art and stages to display the hangman.
-- Responsive design to fit any screen size.
-- User-friendly interface to make the game easy to play.
+* [About the Project](#about-the-project)
+  * [Features](#features)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
 
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#09090a](https://via.placeholder.com/10/09090a?text=+) #09090a |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+## About The Project
 
-## :toolbox: Getting Started
+Welcome to Hangman! In this game, you will guess a word by choosing letters one by one. If you guess a letter correctly, it will appear in its corresponding position in the word. If you guess incorrectly, you will lose a life. The game ends when you have guessed the entire word or when you have run out of lives.
 
-### :bangbang: Prerequisites
+## Features
 
-- Python 3.0 and above installed on your system
-- The word_list.py file containing the word list for the game
-- The art.py file containing the hangman ASCII art
+Three levels of difficulty: easy, medium, and hard.
+A word list containing over 100 English words, categorized by topic.
+Hints for each level of difficulty to help you guess the word.
+Customizable art and stages to display the hangman.
+Responsive design to fit any screen size.
+User-friendly interface to make the game easy to play.
 
 
-### :gear: Installation
 
+## Getting Started
 
-```bash
-python3 main.py
-```
+To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
 
-### :running: Run Locally
+Have python 3.0 and above installed
+
+### Installation
 
 Clone the project
 
@@ -74,22 +65,26 @@ Start the game
 ```bash
 python3 main.py
 ```
+## Roadmap
+
+See the [open issues](https://github.com/jchiwaii/HangMan/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/jchiwaii/HangMan/issues/new) to discuss it.
+* Please also read through the [Code Of Conduct](https://github.com/jchiwaii/HangMan/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes
+4. Push to the Branch
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/jchiwaii/HangMan/blob/main/LICENSE.md) for more information.
 
 
-## :wave: Contributing
-
-<a href="https://github.com/jchiwaii/HangMan/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
-
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-## :handshake: Contact
-
-- [@twitter_handle](https://twitter.com/jchiwaii) -
-
-Project Link: [https://github.com/jchiwaii/HangMan](https://github.com/jchiwaii/HangMan)
